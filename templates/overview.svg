@@ -4,12 +4,13 @@ svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 14px;
   line-height: 21px;
+  color: white;
 }
 
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
+  fill: #212121;
   stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
