@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 29.875%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 27.058%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.782%;" class="progress-item"></span><span style="background-color: #3178c6;width: 8.052%;" class="progress-item"></span><span style="background-color: #555555;width: 5.010%;" class="progress-item"></span><span style="background-color: #e34c26;width: 2.829%;" class="progress-item"></span><span style="background-color: #7e7eff;width: 2.793%;" class="progress-item"></span><span style="background-color: #000000;width: 2.594%;" class="progress-item"></span><span style="background-color: #3c5caa;width: 2.438%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.694%;" class="progress-item"></span><span style="background-color: #663399;width: 1.587%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.533%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 1.230%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.958%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.774%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.382%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.203%;" class="progress-item"></span><span style="background-color: #427819;width: 0.078%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.077%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.054%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 29.871%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 27.055%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.781%;" class="progress-item"></span><span style="background-color: #3178c6;width: 8.051%;" class="progress-item"></span><span style="background-color: #555555;width: 5.009%;" class="progress-item"></span><span style="background-color: #e34c26;width: 2.828%;" class="progress-item"></span><span style="background-color: #7e7eff;width: 2.804%;" class="progress-item"></span><span style="background-color: #000000;width: 2.593%;" class="progress-item"></span><span style="background-color: #3c5caa;width: 2.437%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.693%;" class="progress-item"></span><span style="background-color: #663399;width: 1.587%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.533%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 1.230%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.958%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.774%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.382%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.203%;" class="progress-item"></span><span style="background-color: #427819;width: 0.078%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.077%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.054%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Jupyter Notebook</span>
-<span class="percent">27.06%</span>
+<span class="percent">27.05%</span>
 </li>
 
 
@@ -198,7 +198,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Nix</span>
-<span class="percent">2.79%</span>
+<span class="percent">2.80%</span>
 </li>
 
 
